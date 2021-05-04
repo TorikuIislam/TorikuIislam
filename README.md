@@ -17,7 +17,7 @@
 </tr>
 <tr>
 
-<td><a href='www.linkedin.com/in/md-torikul-islam-8b0b17199' >linkedin</a></td>
+<td><a href='www.linkedin.com/in/torikulislamemon' >linkedin</a></td>
 </tr>
 </tbody>
 </table>
