@@ -5,7 +5,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<table>
+<tbody>
+<tr>
 
+<td><a href='https://www.facebook.com/torikul.islam.3511 >Facebook<a> </td>
+</tr>
+<tr>
+
+<td><a href='https://www.twitter.com/torikul1971 >Twitter<a></td>
+</tr>
+<tr>
+
+<td><a href='www.linkedin.com/in/md-torikul-islam-8b0b17199' >linkedin</a></td>
+</tr>
+</tbody>
+</table>
+<!-- DivTable.com -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
