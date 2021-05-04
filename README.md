@@ -17,7 +17,7 @@
 </tr>
 <tr>
 
-<td><a href='www.linkedin.com/in/torikulislamemon' >Twitter<a></td>
+<td><a href='www.linkedin.com/in/torikulislamemon' >Linkedin<a></td>
 </tr>
 </tbody>
 </table>
