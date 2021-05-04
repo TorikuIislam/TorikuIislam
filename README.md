@@ -9,11 +9,11 @@
 <tbody>
 <tr>
 
-<td><a href='https://www.facebook.com/torikul.islam.3511 >Facebook<a> </td>
+<td><a href='https://www.facebook.com/torikul.islam.3511' >Facebook<a> </td>
 </tr>
 <tr>
 
-<td><a href='https://www.twitter.com/torikul1971 >Twitter<a></td>
+<td><a href='https://www.twitter.com/torikul1971' >Twitter<a></td>
 </tr>
 <tr>
 
