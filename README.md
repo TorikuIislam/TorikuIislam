@@ -9,11 +9,11 @@
 <tbody>
 <tr>
 
-<td><a href='https://www.facebook.com/torikul.islam.3511' >Facebook<a> </td>
+<td><a href='https://www.facebook.com/torikul.islam.3511' > <img src="https://www.svgrepo.com/show/303113/facebook-icon-logo.svg" alt="facebook" width="40" height="40"/><a> </td>
 </tr>
 <tr>
 
-<td><a href='https://www.twitter.com/torikul1971' >Twitter<a></td>
+<td><a href='https://www.twitter.com/torikul1971' > <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsocialmediaicons.biz%2Fproducts%2Fround-social-media-icons-white-new%2F&psig=AOvVaw2oR3PYu_Blai0Apwc2O_TD&ust=1722148477776000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCQpdDNxocDFQAAAAAdAAAAABAJ" alt="Twitter" width="40" height="40"/><a></td>
 </tr>
 <tr>
 
