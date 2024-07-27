@@ -17,8 +17,7 @@
 </tr>
 <tr>
 
-<td><a href='https://www.linkedin.com/in/torikulislamemon' > <img src="![image](https://github.com/user-attachments/assets/a5fac6d4-b09b-4c71-9bdc-70b96376c062)
-" alt="LinkedIn" width="40" height="40"/><a></td>
+<td><a href='https://www.linkedin.com/in/torikulislamemon' > <img src="https://www.svgrepo.com/show/108614/linkedin.svg" alt="LinkedIn" width="40" height="40"/><a></td>
 </tr>
 </tbody>
 </table>
