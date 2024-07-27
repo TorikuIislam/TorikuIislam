@@ -13,11 +13,12 @@
 </tr>
 <tr>
 
-<td><a href='https://www.twitter.com/torikul1971' > <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" alt="Twitter" width="40" height="40"/><a></td>
+<td><a href='https://x.com/iam_human1971' > <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" alt="Twitter" width="40" height="40"/><a></td>
 </tr>
 <tr>
 
-<td><a href='https://www.linkedin.com/in/torikulislamemon' >Linkedin<a></td>
+<td><a href='https://www.linkedin.com/in/torikulislamemon' > <img src="![image](https://github.com/user-attachments/assets/a5fac6d4-b09b-4c71-9bdc-70b96376c062)
+" alt="LinkedIn" width="40" height="40"/><a></td>
 </tr>
 </tbody>
 </table>
